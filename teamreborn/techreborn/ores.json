@@ -61,7 +61,7 @@
       "veinsPerChunk": 16,
       "minYHeight": 20,
       "maxYHeight": 60,
-      "shouldSpawn": true
+      "shouldSpawn": false
     },
     {
       "blockName": "tile.techreborn:ore",
@@ -71,7 +71,7 @@
       "veinsPerChunk": 16,
       "minYHeight": 20,
       "maxYHeight": 60,
-      "shouldSpawn": true
+      "shouldSpawn": false
     },
     {
       "blockName": "tile.techreborn:ore2",
@@ -81,7 +81,7 @@
       "veinsPerChunk": 16,
       "minYHeight": 20,
       "maxYHeight": 60,
-      "shouldSpawn": true
+      "shouldSpawn": false
     },
     {
       "blockName": "tile.techreborn:ore2",
@@ -91,7 +91,7 @@
       "veinsPerChunk": 16,
       "minYHeight": 20,
       "maxYHeight": 60,
-      "shouldSpawn": true
+      "shouldSpawn": false
     }
   ],
   "neatherOres": [
