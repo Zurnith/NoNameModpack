@@ -24,7 +24,7 @@
         {
           "block": "minecraft:coal_ore",
           "parameters": {
-            "size": 25,
+            "size": 0,
             "variation": 12,
             "frequency": 20.0,
             "minHeight": 0,
@@ -37,7 +37,7 @@
         {
           "block": "minecraft:iron_ore",
           "parameters": {
-            "size": 8,
+            "size": 0,
             "variation": 4,
             "frequency": 20.0,
             "minHeight": 0,
@@ -50,7 +50,7 @@
         {
           "block": "minecraft:gold_ore",
           "parameters": {
-            "size": 8,
+            "size": 0,
             "variation": 2,
             "frequency": 2.0,
             "minHeight": 0,
@@ -89,7 +89,7 @@
         {
           "block": "minecraft:lapis_ore",
           "parameters": {
-            "size": 5,
+            "size": 0,
             "variation": 2,
             "frequency": 1.0,
             "minHeight": 0,

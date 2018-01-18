@@ -1,9 +1,0 @@
-//Scripts
-
-{import crafttweaker.oreDict.IOreDictEntry;}
-
-
-/* <thermalfoundation:ore>
-<immersiveengineering:ore>
-<basemetals:copper_ore>
-<techreborn:ore2> */
