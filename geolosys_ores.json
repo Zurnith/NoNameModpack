@@ -1,6 +1,6 @@
 {
   "coalSize": 64,
-  "coalChance": 8,
+  "coalChance": 11,
   "coalDimBlacklist": [
     -1,
     1
@@ -12,7 +12,7 @@
     1
   ],
   "goldSize": 40,
-  "goldChance": 3,
+  "goldChance": 6,
   "goldDimBlacklist": [
     -1,
     1
@@ -42,7 +42,7 @@
     1
   ],
   "hematiteSize": 24,
-  "hematiteChance": 7,
+  "hematiteChance": 10,
   "hematiteDimBlacklist": [
     -1,
     1
