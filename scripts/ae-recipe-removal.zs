@@ -19,3 +19,6 @@ recipes.remove(<appliedenergistics2:sky_stone_small_brick>);
 recipes.remove(<appliedenergistics2:material:24>);
 recipes.remove(<appliedenergistics2:material:22>);
 recipes.remove(<appliedenergistics2:material:23>);
+
+recipes.remove(<appliedenergistics2:drive>);
+recipes.remove(<appliedenergistics2:energy_acceptor>);
