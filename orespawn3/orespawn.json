@@ -65,7 +65,7 @@
           "parameters": {
             "size": 6,
             "variation": 3,
-            "frequency": 8.0,
+            "frequency": 6.0,
             "minHeight": 0,
             "maxHeight": 16
           },
@@ -78,7 +78,7 @@
           "parameters": {
             "size": 6,
             "variation": 3,
-            "frequency": 8.0,
+            "frequency": 7.0,
             "minHeight": 0,
             "maxHeight": 16
           },
@@ -104,7 +104,7 @@
           "parameters": {
             "size": 1,
             "variation": 0,
-            "frequency": 8.0,
+            "frequency": 2.0,
             "minHeight": 4,
             "maxHeight": 32
           },
