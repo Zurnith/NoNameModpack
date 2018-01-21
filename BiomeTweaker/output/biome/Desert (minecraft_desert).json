@@ -6,7 +6,7 @@
   "Class": "net.minecraft.world.biome.BiomeDesert",
   "Root Height": 0.125,
   "Height Variation": 0.05,
-  "Top Block": "minecraft:sand[variant\u003dsand]",
+  "Top Block": "minecraft:snow",
   "Filler Block": "minecraft:sand[variant\u003dsand]",
   "Ocean Top Block": "Disabled. Activate in BiomeTweakerCore.",
   "Ocean Filler Block": "Disabled. Activate in BiomeTweakerCore.",

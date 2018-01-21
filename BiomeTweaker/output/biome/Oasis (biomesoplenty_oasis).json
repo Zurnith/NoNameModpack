@@ -6,7 +6,7 @@
   "Class": "biomesoplenty.common.biome.overworld.BiomeGenOasis",
   "Root Height": -0.05882353,
   "Height Variation": 0.0,
-  "Top Block": "minecraft:sand[variant\u003dsand]",
+  "Top Block": "minecraft:snow",
   "Filler Block": "minecraft:sand[variant\u003dsand]",
   "Ocean Top Block": "Disabled. Activate in BiomeTweakerCore.",
   "Ocean Filler Block": "Disabled. Activate in BiomeTweakerCore.",
