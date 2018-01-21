@@ -1,0 +1,6 @@
+
+{
+  "Name": "luggage",
+  "Registry ID": "openblocks:luggage",
+  "Class": "openblocks.common.entity.EntityLuggage"
+}

@@ -23,7 +23,7 @@
   "topBlock": {
     "block": "biomesoplenty:grass",
     "properties": {
-      "snowy": "true",
+      "snowy": "false",
       "variant": "loamy"
     }
   },
@@ -213,7 +213,7 @@
       "grassBorderWith": {
         "block": "biomesoplenty:grass",
         "properties": {
-          "snowy": "true",
+          "snowy": "false",
           "variant": "loamy"
         }
       }

@@ -11,7 +11,7 @@
   "topBlock": {
     "block": "biomesoplenty:grass",
     "properties": {
-      "snowy": "true",
+      "snowy": "false",
       "variant": "overgrown_netherrack"
     }
   },
