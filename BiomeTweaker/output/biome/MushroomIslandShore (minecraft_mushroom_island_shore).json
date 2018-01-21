@@ -17,7 +17,7 @@
   "Temperature": 0.9,
   "Humidity": 1.0,
   "Water Tint": 16777215,
-  "Enable Rain": true,
+  "Enable Rain": false,
   "Enable Snow": true,
   "Dictionary Types": [
     "BEACH",

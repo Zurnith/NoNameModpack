@@ -17,7 +17,7 @@
   "Temperature": 0.3,
   "Humidity": 0.8,
   "Water Tint": 16777215,
-  "Enable Rain": true,
+  "Enable Rain": false,
   "Enable Snow": true,
   "Dictionary Types": [
     "MEGA_TAIGA_TREES",
