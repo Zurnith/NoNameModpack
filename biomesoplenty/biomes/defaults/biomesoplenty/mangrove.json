@@ -62,7 +62,7 @@
       "grassBorderWith": {
         "block": "minecraft:grass",
         "properties": {
-          "snowy": "false"
+          "snowy": "true"
         }
       }
     },

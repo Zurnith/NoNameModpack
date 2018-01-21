@@ -9,14 +9,14 @@
   "seaFloorBlock": {
     "block": "minecraft:dirt",
     "properties": {
-      "snowy": "false",
+      "snowy": "true",
       "variant": "dirt"
     }
   },
   "fillerBlock": {
     "block": "minecraft:dirt",
     "properties": {
-      "snowy": "false",
+      "snowy": "true",
       "variant": "dirt"
     }
   },
@@ -24,7 +24,7 @@
   "topBlock": {
     "block": "minecraft:grass",
     "properties": {
-      "snowy": "false"
+      "snowy": "true"
     }
   },
   "fogColor": -1,
@@ -187,7 +187,7 @@
       "grassBorderWith": {
         "block": "minecraft:grass",
         "properties": {
-          "snowy": "false"
+          "snowy": "true"
         }
       }
     },

@@ -8,7 +8,7 @@
   "seaFloorBlock": {
     "block": "minecraft:dirt",
     "properties": {
-      "snowy": "false",
+      "snowy": "true",
       "variant": "dirt"
     }
   },

@@ -137,7 +137,7 @@
       "with": {
         "block": "biomesoplenty:grass",
         "properties": {
-          "snowy": "false",
+          "snowy": "true",
           "variant": "loamy"
         }
       },

@@ -8,7 +8,7 @@
   "seaFloorBlock": {
     "block": "minecraft:dirt",
     "properties": {
-      "snowy": "false",
+      "snowy": "true",
       "variant": "dirt"
     }
   },
@@ -22,7 +22,7 @@
   "topBlock": {
     "block": "biomesoplenty:grass",
     "properties": {
-      "snowy": "false",
+      "snowy": "true",
       "variant": "overgrown_stone"
     }
   },
