@@ -6,7 +6,7 @@
   "Class": "biomesoplenty.common.biome.overworld.BiomeGenOminousWoods",
   "Root Height": 0.1764706,
   "Height Variation": 0.075,
-  "Top Block": "biomesoplenty:grass[snowy\u003dfalse,variant\u003dloamy]",
+  "Top Block": "minecraft:snow"biomesoplenty:grass[snowy\u003dfalse,variant\u003dloamy]",
   "Filler Block": "biomesoplenty:dirt[coarse\u003dfalse,variant\u003dloamy]",
   "Ocean Top Block": "Disabled. Activate in BiomeTweakerCore.",
   "Ocean Filler Block": "Disabled. Activate in BiomeTweakerCore.",

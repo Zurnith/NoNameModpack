@@ -6,7 +6,7 @@
   "Class": "biomesoplenty.common.biome.overworld.BiomeGenCherryBlossomGrove",
   "Root Height": -0.11764706,
   "Height Variation": 0.1375,
-  "Top Block": "biomesoplenty:grass[snowy\u003dfalse,variant\u003dsilty]",
+  "Top Block": "minecraft:snow"biomesoplenty:grass[snowy\u003dfalse,variant\u003dsilty]",
   "Filler Block": "biomesoplenty:dirt[coarse\u003dfalse,variant\u003dsilty]",
   "Ocean Top Block": "Disabled. Activate in BiomeTweakerCore.",
   "Ocean Filler Block": "Disabled. Activate in BiomeTweakerCore.",

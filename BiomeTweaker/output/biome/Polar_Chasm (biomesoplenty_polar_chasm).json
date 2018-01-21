@@ -6,7 +6,7 @@
   "Class": "biomesoplenty.common.biome.nether.BiomePolarChasm",
   "Root Height": 0.1,
   "Height Variation": 0.2,
-  "Top Block": "biomesoplenty:hard_ice",
+  "Top Block": "minecraft:snow"biomesoplenty:hard_ice",
   "Filler Block": "biomesoplenty:hard_ice",
   "Ocean Top Block": "Disabled. Activate in BiomeTweakerCore.",
   "Ocean Filler Block": "Disabled. Activate in BiomeTweakerCore.",

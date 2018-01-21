@@ -6,7 +6,7 @@
   "Class": "biomesoplenty.common.biome.overworld.BiomeGenOutback",
   "Root Height": 0.4117647,
   "Height Variation": 0.118750006,
-  "Top Block": "minecraft:snow",
+  "Top Block": "minecraft:snow"minecraft:snow",
   "Filler Block": "minecraft:sand[variant\u003dred_sand]",
   "Ocean Top Block": "Disabled. Activate in BiomeTweakerCore.",
   "Ocean Filler Block": "Disabled. Activate in BiomeTweakerCore.",

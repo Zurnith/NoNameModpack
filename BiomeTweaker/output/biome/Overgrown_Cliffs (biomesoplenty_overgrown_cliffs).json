@@ -6,7 +6,7 @@
   "Class": "biomesoplenty.common.biome.overworld.BiomeGenOvergrownCliffs",
   "Root Height": 0.29411766,
   "Height Variation": 0.60625,
-  "Top Block": "biomesoplenty:grass[snowy\u003dfalse,variant\u003dovergrown_stone]",
+  "Top Block": "minecraft:snow"biomesoplenty:grass[snowy\u003dfalse,variant\u003dovergrown_stone]",
   "Filler Block": "minecraft:stone[variant\u003dstone]",
   "Ocean Top Block": "Disabled. Activate in BiomeTweakerCore.",
   "Ocean Filler Block": "Disabled. Activate in BiomeTweakerCore.",

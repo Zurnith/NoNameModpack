@@ -6,7 +6,7 @@
   "Class": "biomesoplenty.common.biome.overworld.BiomeGenFlowerIsland",
   "Root Height": 0.29411766,
   "Height Variation": 0.2,
-  "Top Block": "biomesoplenty:grass[snowy\u003dfalse,variant\u003ddaisy]",
+  "Top Block": "minecraft:snow"biomesoplenty:grass[snowy\u003dfalse,variant\u003ddaisy]",
   "Filler Block": "minecraft:dirt[snowy\u003dfalse,variant\u003ddirt]",
   "Ocean Top Block": "Disabled. Activate in BiomeTweakerCore.",
   "Ocean Filler Block": "Disabled. Activate in BiomeTweakerCore.",
