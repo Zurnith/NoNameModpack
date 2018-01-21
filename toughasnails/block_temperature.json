@@ -10,6 +10,13 @@
   },
   {
     "state": {
+      "block": "minecraft:torch",
+      "properties": {}
+    },
+    "temperature": 5.0
+  },
+  {
+    "state": {
       "block": "minecraft:lit_furnace",
       "properties": {}
     },
