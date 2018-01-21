@@ -6,7 +6,7 @@
   "Class": "net.minecraft.world.biome.BiomeSavannaMutated",
   "Root Height": 1.05,
   "Height Variation": 1.2125001,
-  "Top Block": "minecraft:snow"
+  "Top Block": "minecraft:snow",
   "Filler Block": "minecraft:dirt[snowy\u003dfalse,variant\u003ddirt]",
   "Ocean Top Block": "Disabled. Activate in BiomeTweakerCore.",
   "Ocean Filler Block": "Disabled. Activate in BiomeTweakerCore.",

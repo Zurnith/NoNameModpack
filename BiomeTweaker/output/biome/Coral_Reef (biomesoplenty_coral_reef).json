@@ -6,7 +6,7 @@
   "Class": "biomesoplenty.common.biome.overworld.BiomeGenCoralReef",
   "Root Height": -1.1764706,
   "Height Variation": 0.043750003,
-  "Top Block": "minecraft:snow"
+  "Top Block": "minecraft:snow",
   "Filler Block": "minecraft:dirt[snowy\u003dfalse,variant\u003ddirt]",
   "Ocean Top Block": "Disabled. Activate in BiomeTweakerCore.",
   "Ocean Filler Block": "Disabled. Activate in BiomeTweakerCore.",

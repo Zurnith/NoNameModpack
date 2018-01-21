@@ -6,7 +6,7 @@
   "Class": "biomesoplenty.common.biome.overworld.BiomeGenKelpForest",
   "Root Height": -1.4705882,
   "Height Variation": 0.0125,
-  "Top Block": "minecraft:snow"
+  "Top Block": "minecraft:snow",
   "Filler Block": "minecraft:dirt[snowy\u003dfalse,variant\u003ddirt]",
   "Ocean Top Block": "Disabled. Activate in BiomeTweakerCore.",
   "Ocean Filler Block": "Disabled. Activate in BiomeTweakerCore.",

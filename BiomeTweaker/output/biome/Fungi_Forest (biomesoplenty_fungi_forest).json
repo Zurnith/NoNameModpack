@@ -6,7 +6,7 @@
   "Class": "biomesoplenty.common.biome.nether.BiomeFungiForest",
   "Root Height": 0.1,
   "Height Variation": 0.2,
-  "Top Block": "minecraft:snow"
+  "Top Block": "minecraft:snow",
   "Filler Block": "minecraft:netherrack",
   "Ocean Top Block": "Disabled. Activate in BiomeTweakerCore.",
   "Ocean Filler Block": "Disabled. Activate in BiomeTweakerCore.",

@@ -6,7 +6,7 @@
   "Class": "biomesoplenty.common.biome.overworld.BiomeGenQuagmire",
   "Root Height": -0.11764706,
   "Height Variation": 0.043750003,
-  "Top Block": "minecraft:snow"
+  "Top Block": "minecraft:snow",
   "Filler Block": "biomesoplenty:mud[variant\u003dmud]",
   "Ocean Top Block": "Disabled. Activate in BiomeTweakerCore.",
   "Ocean Filler Block": "Disabled. Activate in BiomeTweakerCore.",
