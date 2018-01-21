@@ -6,7 +6,7 @@
   "Class": "biomesoplenty.common.biome.overworld.BiomeGenXericShrubland",
   "Root Height": -0.05882353,
   "Height Variation": 0.087500006,
-  "Top Block": "minecraft:snow"minecraft:snow",
+  "Top Block": "minecraft:snow"
   "Filler Block": "minecraft:sand[variant\u003dsand]",
   "Ocean Top Block": "Disabled. Activate in BiomeTweakerCore.",
   "Ocean Filler Block": "Disabled. Activate in BiomeTweakerCore.",

@@ -6,7 +6,7 @@
   "Class": "biomesoplenty.common.biome.overworld.BiomeGenWhiteBeach",
   "Root Height": -0.05882353,
   "Height Variation": 0.112500004,
-  "Top Block": "minecraft:snow"biomesoplenty:white_sand",
+  "Top Block": "minecraft:snow"
   "Filler Block": "biomesoplenty:white_sand",
   "Ocean Top Block": "Disabled. Activate in BiomeTweakerCore.",
   "Ocean Filler Block": "Disabled. Activate in BiomeTweakerCore.",

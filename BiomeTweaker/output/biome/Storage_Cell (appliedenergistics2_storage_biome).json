@@ -6,7 +6,7 @@
   "Class": "appeng.spatial.BiomeGenStorage",
   "Root Height": 0.1,
   "Height Variation": 0.2,
-  "Top Block": "minecraft:snow"minecraft:snow",
+  "Top Block": "minecraft:snow"
   "Filler Block": "minecraft:dirt[snowy\u003dfalse,variant\u003ddirt]",
   "Ocean Top Block": "Disabled. Activate in BiomeTweakerCore.",
   "Ocean Filler Block": "Disabled. Activate in BiomeTweakerCore.",

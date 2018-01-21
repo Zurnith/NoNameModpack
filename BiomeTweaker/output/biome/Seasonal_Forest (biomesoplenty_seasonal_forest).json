@@ -6,7 +6,7 @@
   "Class": "biomesoplenty.common.biome.overworld.BiomeGenSeasonalForest",
   "Root Height": 0.5882353,
   "Height Variation": 0.54375,
-  "Top Block": "minecraft:snow"minecraft:snow",
+  "Top Block": "minecraft:snow"
   "Filler Block": "minecraft:dirt[snowy\u003dfalse,variant\u003ddirt]",
   "Ocean Top Block": "Disabled. Activate in BiomeTweakerCore.",
   "Ocean Filler Block": "Disabled. Activate in BiomeTweakerCore.",

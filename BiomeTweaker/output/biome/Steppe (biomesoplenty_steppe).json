@@ -6,7 +6,7 @@
   "Class": "biomesoplenty.common.biome.overworld.BiomeGenSteppe",
   "Root Height": 0.29411766,
   "Height Variation": 0.13125,
-  "Top Block": "minecraft:snow"biomesoplenty:grass[snowy\u003dfalse,variant\u003dsandy]",
+  "Top Block": "minecraft:snow"
   "Filler Block": "biomesoplenty:dirt[coarse\u003dfalse,variant\u003dsandy]",
   "Ocean Top Block": "Disabled. Activate in BiomeTweakerCore.",
   "Ocean Filler Block": "Disabled. Activate in BiomeTweakerCore.",
