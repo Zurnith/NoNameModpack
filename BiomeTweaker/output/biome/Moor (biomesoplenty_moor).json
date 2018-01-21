@@ -18,7 +18,7 @@
   "Humidity": 1.0,
   "Water Tint": 5800566,
   "Enable Rain": true,
-  "Enable Snow": false,
+  "Enable Snow": true,
   "Dictionary Types": [
     "WET",
     "HILLS",

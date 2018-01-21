@@ -18,7 +18,7 @@
   "Humidity": 0.0,
   "Water Tint": 16777215,
   "Enable Rain": false,
-  "Enable Snow": false,
+  "Enable Snow": true,
   "Dictionary Types": [
     "SPOOKY",
     "SANDY",

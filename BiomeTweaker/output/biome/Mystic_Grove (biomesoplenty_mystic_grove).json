@@ -18,7 +18,7 @@
   "Humidity": 0.8,
   "Water Tint": 16715898,
   "Enable Rain": true,
-  "Enable Snow": false,
+  "Enable Snow": true,
   "Dictionary Types": [
     "MAGICAL",
     "LUSH",
