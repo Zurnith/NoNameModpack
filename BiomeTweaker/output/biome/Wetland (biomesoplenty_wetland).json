@@ -17,7 +17,7 @@
   "Temperature": 0.6,
   "Humidity": 0.7,
   "Water Tint": 6512772,
-  "Enable Rain": true,
+  "Enable Rain": false,
   "Enable Snow": true,
   "Dictionary Types": [
     "LUSH",

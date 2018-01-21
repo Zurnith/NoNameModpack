@@ -17,7 +17,7 @@
   "Temperature": 0.6,
   "Humidity": 0.8,
   "Water Tint": 16715898,
-  "Enable Rain": true,
+  "Enable Rain": false,
   "Enable Snow": true,
   "Dictionary Types": [
     "MAGICAL",

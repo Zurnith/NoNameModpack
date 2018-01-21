@@ -17,7 +17,7 @@
   "Temperature": 0.6,
   "Humidity": 0.05,
   "Water Tint": 16777215,
-  "Enable Rain": true,
+  "Enable Rain": false,
   "Enable Snow": true,
   "Dictionary Types": [
     "SPARSE",
