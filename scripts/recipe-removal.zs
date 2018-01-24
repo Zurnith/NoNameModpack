@@ -1,4 +1,39 @@
-//Recipe Removal
+//Applied Energistics Recipe Removal
+
+
+//Press Recipe Removal
+recipes.remove(<appliedenergistics2:material:13>);
+recipes.remove(<appliedenergistics2:material:14>);
+recipes.remove(<appliedenergistics2:material:19>);
+recipes.remove(<appliedenergistics2:material:15>);
+recipes.remove(<appliedenergistics2:inscriber>);
+
+//Controller Recipe Removal
+recipes.remove(<appliedenergistics2:sky_stone_block>);
+recipes.remove(<appliedenergistics2:controller>);
+recipes.remove(<appliedenergistics2:smooth_sky_stone_block>);
+recipes.remove(<appliedenergistics2:sky_stone_brick>);
+recipes.remove(<appliedenergistics2:sky_stone_small_brick>);
+
+//Processors
+recipes.remove(<appliedenergistics2:material:24>);
+recipes.remove(<appliedenergistics2:material:22>);
+recipes.remove(<appliedenergistics2:material:23>);
+
+recipes.remove(<appliedenergistics2:drive>);
+recipes.remove(<appliedenergistics2:energy_acceptor>);
+
+
+
+
+//tr recipes
+
+//Basic Solar Panel
+recipes.remove(<techreborn:solar_panel>);
+
+
+
+//Vanilla
 
 //Stone Tools
 recipes.remove(<minecraft:stone_shovel>);
@@ -36,3 +71,9 @@ recipes.remove(<minecraft:golden_hoe>);
 recipes.remove(<minecraft:golden_sword>);
 
 
+
+
+//Geolysis
+
+//Prospector's Pick
+recipes.remove(<geolosys:pro_pick>);

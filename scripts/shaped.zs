@@ -11,3 +11,10 @@ recipes.addShaped(<appliedenergistics2:drive>, [[<thermalfoundation:material:32>
 recipes.addShaped(<appliedenergistics2:energy_acceptor>, [[<thermalfoundation:material:32>, <appliedenergistics2:part:16>, <thermalfoundation:material:32>] ,
 [<immersiveengineering:stone_decoration:8>, null, <immersiveengineering:stone_decoration:8>] ,
 [<thermalfoundation:material:32>, <appliedenergistics2:part:16>, <thermalfoundation:material:32>]]);
+
+
+//Geolysis Shaped recipes
+
+recipes.addShaped(<geolosys:pro_pick>, [[<minecraft:iron_block>, <minecraft:iron_block>, <minecraft:iron_block>]
+[null, <minecraft:stick>, <minecraft:iron_block>]
+[null, <minecraft:stick>, null]]);
