@@ -10,13 +10,13 @@
       },
       "generationAttempts": 64,
       "amountPerChunk": 1.5,
-      "enable": true
+      "enable": false
     },
     "hive": {
       "maxRadius": 9,
       "bottomExtra": 4,
       "amountPerChunk": 0.2,
-      "enable": true,
+      "enable": false,
       "halfHeight": 7,
       "emptyChance": 0.25,
       "layerSize": 3
@@ -30,7 +30,7 @@
       },
       "generationAttempts": 64,
       "amountPerChunk": 0.25,
-      "enable": true
+      "enable": false
     },
     "stone_formations": {
       "minHeight": 1,
@@ -44,7 +44,7 @@
       "generationAttempts": 32,
       "amountPerChunk": 30.0,
       "maxHeight": 7,
-      "enable": true,
+      "enable": false,
       "randomDirection": true
     },
     "roots": {
@@ -56,7 +56,7 @@
       },
       "generationAttempts": 32,
       "amountPerChunk": 4.0,
-      "enable": true
+      "enable": false
     }
   }
 }

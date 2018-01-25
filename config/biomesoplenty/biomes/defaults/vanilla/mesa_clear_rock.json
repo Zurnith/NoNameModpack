@@ -10,7 +10,7 @@
       },
       "generationAttempts": 64,
       "amountPerChunk": 1.5,
-      "enable": true
+      "enable": false
     },
     "tiny_cacti": {
       "with": {
@@ -21,11 +21,11 @@
       },
       "generationAttempts": 16,
       "amountPerChunk": 0.1,
-      "enable": true
+      "enable": false
     },
     "flowers": {
       "amountPerChunk": 0.1,
-      "enable": true,
+      "enable": false,
       "generators": {}
     },
     "miners_delight": {
@@ -37,7 +37,7 @@
       },
       "generationAttempts": 64,
       "amountPerChunk": 0.25,
-      "enable": true
+      "enable": false
     },
     "stone_formations": {
       "minHeight": 1,
@@ -51,7 +51,7 @@
       "generationAttempts": 32,
       "amountPerChunk": 30.0,
       "maxHeight": 7,
-      "enable": true,
+      "enable": false,
       "randomDirection": true
     },
     "roots": {
@@ -63,7 +63,7 @@
       },
       "generationAttempts": 32,
       "amountPerChunk": 4.0,
-      "enable": true
+      "enable": false
     },
     "desertgrass": {
       "with": {
@@ -74,7 +74,7 @@
       },
       "generationAttempts": 8,
       "amountPerChunk": 0.3,
-      "enable": true
+      "enable": false
     },
     "ruby": {
       "minHeight": 4,
@@ -86,7 +86,7 @@
       },
       "amountPerChunk": 12.0,
       "maxHeight": 32,
-      "enable": true
+      "enable": false
     }
   }
 }
