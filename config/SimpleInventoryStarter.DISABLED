@@ -9,9 +9,9 @@ general {
 
     # List of items player should start game with. [enableStartingItems must be true for this to work] Format modid:item,amount,metadata Example for 2 Lapis Lazuli: minecraft:dye,2,4 [default: [minecraft:wooden_hoe,1,0], [minecraft:wheat_seeds,16,0], [minecraft:dye,2,4]]
     S:startingItems <
-            [toughasnails:campfire,1,0]
-            [minecraft:flint_and_steel,1,0]
-            [minecraft:torch,16,0]
-            [minecraft:apple,16,0]
+            [toughasnails:campfire,1],
+            [minecraft:flint_and_steel,1],
+            [minecraft:torch,16],
+            [minecraft:apple,16],
             >
 }
